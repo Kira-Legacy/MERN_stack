@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Blog Posting Page</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Blog Page</h1>
+    </header>
+
+    <main>
+        <section>
+            <article>
+                <h2>Saint Paul the Apostle</h2>
+                <figure>
+                    <img src="https://i.natgeofe.com/n/ac38af07-84ff-4808-8eb7-a96d466451c7/Jesuslead.jpg"
+                        alt="Saint Paul the Apostle" width="280" height="280">
+                    <figcaption>Saint Paul the Apostle from the Bible</figcaption>
+                </figure>
+                <blockquote cite="Romans 13:10">
+                    <p><strong><em>Love is the fulfilling of the law.</em></strong></p>
+                </blockquote>
+                <p>Date: <time datetime="2025-06-08">June 08, 2025</time></p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;2025 single blog post.</p>
+    </footer>
+</body>
+
+</html>
