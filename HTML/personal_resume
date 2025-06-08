@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="dark" />
+    <link rel="icon" href="https://github.com/Kira-Legacy/Image_Repo/blob/main/portfolio%20image.png?raw=true">
+    <title>Kirubel Personal Resume</title>
+
+</head>
+
+<body>
+    <header>
+        <h1>KE Welcome to Kirubel's Personal Resume</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#about">About Me</a>
+            <a href="#contact">Contact</a>
+            <a href="#work">Work Experience</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <article>
+                <h2>About Me</h2>
+                <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/KET.jpg?raw=true"
+                    alt="Kirubel Eshetu Tefera's Qualifications" width="750" height="750">
+                <p>Hello &#128075;&#127998; I am Kirubel Eshetu Tefera. I am very much to fix technical issues. Are you also
+                    interested about technology? Join me  <a href="https://t.me/KiraFix_tech">@KiraFix_tech.</a></p>
+            </article>
+        </section>
+
+        <section id="contact">
+            <article>
+                <h2>You can contact me using the following addresses.</h2>
+                <img src="https://iistd.in/wp-content/uploads/2021/04/Contact-us.jpg" alt="Contact Image" width="600" height="320">
+                <address>
+                    <ul>
+                        <li>Phone: <a href="tel:+251939806607">+251939806607</a></li>
+                        <li>Email: <a href="mailto: Kirubelwinner@gmail.com">Kirubelwinner@gmail.com</a></li>
+                        <li>Linkedln: <a href="https://www.linkedin.com/in/kirubel-eshetu-tefera">Kirubel Eshetu</a>
+                        </li>
+                        <li>Telegram: <a href="https://t.me/BrightLife23">Kirubel &#x2671;</a></li>
+                        <li>Instagram: <a href="https://www.instagram.com/young_kira23">Kirubel Eshetu</a></li>
+                        <li>Twitter: <a href="https://www.twitter.com/KirubelLegacy23">Kirubel Eshetu</a></li>
+                        <li>Facebook: <a href="https://facebook.com/Kirubel23">Kirubel Eshetu</a></li>
+                        <li>Whatsapp: <a href="https://wa.me/251939806607">Kirubel Eshetu</a></li>
+                    </ul>
+                </address>
+            </article>
+        </section>
+
+        <section id="work">
+            <article>
+                <h2>Work Experience</h2>
+                <img src="https://miro.medium.com/v2/resize:fit:1000/1*yWSReYx-a8VtlxFs-GFJUg.png" alt="Work Experience Image"
+                    width="900" height="400">
+
+                <table>
+
+                    <thead>
+                        <th>Company</th>
+                        <th>Position</th>
+                        <th>Duration Period</th>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>Addis Media Network</td>
+                            <td>IT technician and Network Administrator</td>
+                            <td>July 2023 - Augest 2023</td>
+                        </tr>
+                        <tr>
+                            <td>iSON Xperiences</td>
+                            <td>Customer Service Representative</td>
+                            <td>Augest 2024 - December 2024</td>
+                        </tr>
+                        <tr>
+                            <td>Information Network Security Agency</td>
+                            <td>System Developer</td>
+                            <td>March 2024 - Present</td>
+                        </tr>
+                    </tbody>
+
+                </table>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Kirubel Eshetu Tefera. All rights reserved.</p>
+        <p>Follow me on my social media accounts for more updates!</p>
+    </footer>
+
+</body>
+
+</html>
