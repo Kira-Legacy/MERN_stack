@@ -1,1 +1,99 @@
+/* General Body Styles */
+body {
+    font-family: Verdana, sans-serif; /* A common, readable font */
+    margin: 0; /* Remove default browser margin */
+    line-height: 1.6; /* Improve readability of text */
+    background-color: #ffdfdf; /* A light background color */
+    color: #333; /* Dark gray text color */
+}
 
+/* Header Styles */
+header {
+    background-color: #000000; /* Dark background for the header */
+    color: #fff; /* White text for the header */
+    padding: 1rem 0; /* Add some space above and below the header content */
+    text-align: center; /* Center the text in the header */
+}
+
+header h1 {
+    margin-bottom: 0.5rem; /* Space below the main title */
+    font-size: 2.5rem; /* Larger font for the main title */
+}
+
+header nav {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Navigation Styles */
+nav a {
+    color: #fff; /* White text for navigation links */
+    text-decoration: none; /* Remove underline from links */
+    margin: 0 15px; /* Add horizontal spacing between links */
+    font-weight: bold; /* Make links bold */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Add underline on hover for interaction */
+}
+
+/* Main Content Area */
+main {
+    padding: 20px; /* Add padding around the main content */
+    max-width: 960px; /* Set a maximum width for content */
+    margin: 35px auto; /* Center the main content block */
+    background-color: #fff; /* White background for the main content area */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for a card-like effect */
+}
+
+/* Section Headings */
+section h2 {
+    color: #0056b3; /* A blue color for section titles */
+    border-bottom: 2px solid #0056b3; /* A line under section titles */
+    padding-bottom: 5px; /* Space between title and line */
+    margin-top: 30px; /* Space above section titles */
+}
+
+/* Image in About Me section */
+#about img {
+    display: block; /* Make the image a block element */
+    margin: 20px auto; /* Center the image */
+    border-radius: 50%; /* Make it circular (if height/width are equal) */
+    border: 3px solid #0056b3; /* Add a border around the image */
+}
+
+#contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+#contact li {
+    margin-bottom: 5px;
+}
+
+#work table,th,td {
+    border: 1px solid #ccc;
+
+}
+
+#work table {
+    border-collapse: collapse;
+}
+
+#work th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+#work tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    color: #fff;
+    margin-top: 20px;
+}
